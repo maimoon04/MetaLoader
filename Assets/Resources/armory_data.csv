@@ -1,0 +1,5 @@
+,,,
+WeaponType,Currency,Amount,path 
+Blade,Gems,100,Sprites/Blade 
+Gun,Coins,50,Sprites/Gun
+Sword,Gems,2000,Sprites/Sword
